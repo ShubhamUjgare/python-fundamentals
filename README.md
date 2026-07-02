@@ -71,7 +71,7 @@ python-fundamentals/
 |-----|------|-------|--------|
 | Day 1 | 19 Jun 2026 | OOP — Classes, `__init__`, self, inheritance, `super()` | ✅ Done |
 | Day 2 | 20 Jun 2026 | Lists — slicing, comprehensions, sorting with `key=` | ✅ Done |
-| Day 3 | 21 Jun 2026 | Dictionaries — `get()`, `items()`, nested, defaultdict | ⬜ Upcoming |
+| Day 3 | 21 Jun 2026 | Dictionaries — `get()`, `items()`, nested, defaultdict | ✅ Done |
 | Day 4 | 22 Jun 2026 | Sets — `add()`, `in` check, union, intersection | ⬜ Upcoming |
 | Day 5 | 23 Jun 2026 | Strings + Tuples — slicing, `split()`, `join()`, `ord()`, `chr()` | ⬜ Upcoming |
 | Day 6 | 24 Jun 2026 | Counter + defaultdict + deque + heapq — 4 power tools | ⬜ Upcoming |
